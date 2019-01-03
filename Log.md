@@ -2,7 +2,7 @@ Day 0: Jan 1, 2019
 
 Lesson: Revising Neural Network Basics
 
-Takeaways: Refresh on
+Takeaways: Refreshing on
                 -Perceptron
                 -Cross Entropy
                 -Logistic Regression
